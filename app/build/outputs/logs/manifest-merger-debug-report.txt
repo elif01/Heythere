@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.41.0.aar/d06413aedcc7886484adc229df002f65/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-login-4.41.0.aar/171249a6b5dc6f3eab7b87d791e94c58/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-share-4.41.0.aar/fbe9e512d80fbe84b0ba4cda95ac08bf/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/263063a2072e44374acd4b09c679c413/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8284a21db9d3a2b128b2eaa01169df2e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-places:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-places-4.41.0.aar/178d9a13c63767a6592ebde908500ac7/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.41.0.aar/483e6b0e835fcfaed193af996632f862/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.41.0.aar/4fcd82dfc7d225aba5c71c85fbac923a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/60d8708ea8e76d067addbde827c1f249/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bf72ea8ca4396d67ab1a57c41441af7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/45c83698d7ab5e6fcb99eba2b834fc12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/baaf2ee6e753ccd4208ee888ed2fb3b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4ca2c7a8660616c2f4ee5b2195f4aa66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e7d06f566c1649459f27acf888a491a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/15a9646418c6413b319f65a50ae0c50f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8ee38660f93f4ecb337b4cc1fe07e9d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ee57096f12468f81837cc2944e702bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98adeee8a10febbe649d586dfa35dae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/faf8a163a3face9ad3403126f891de41/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:6:5-48:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.41.0.aar/d06413aedcc7886484adc229df002f65/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.41.0.aar/d06413aedcc7886484adc229df002f65/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-login-4.41.0.aar/171249a6b5dc6f3eab7b87d791e94c58/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-login-4.41.0.aar/171249a6b5dc6f3eab7b87d791e94c58/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-share-4.41.0.aar/fbe9e512d80fbe84b0ba4cda95ac08bf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-share-4.41.0.aar/fbe9e512d80fbe84b0ba4cda95ac08bf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8284a21db9d3a2b128b2eaa01169df2e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8284a21db9d3a2b128b2eaa01169df2e/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-places:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-places-4.41.0.aar/178d9a13c63767a6592ebde908500ac7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-places-4.41.0.aar/178d9a13c63767a6592ebde908500ac7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.41.0.aar/483e6b0e835fcfaed193af996632f862/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.41.0.aar/483e6b0e835fcfaed193af996632f862/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.41.0.aar/4fcd82dfc7d225aba5c71c85fbac923a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.41.0.aar/4fcd82dfc7d225aba5c71c85fbac923a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:28:5-51:19
+	android:supportsRtl
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:12:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:13:9-14:54
+	android:value
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:14:13-52
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:13:20-65
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:17:9-19:38
+	android:authorities
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:17:19-98
+	android:exported
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:18:13-64
+activity#com.facebook.FacebookActivity
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:22:9-25:48
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:23:13-113
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:22:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:27:9-36:20
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:30:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:33:27-75
+data
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:34:17-75
+	android:scheme
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:34:23-72
+activity#com.example.heythere.SecondActivity
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:38:19-49
+activity#com.example.heythere.MainActivity
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:42:9-47:20
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.android:facebook-android-sdk:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.41.0.aar/d06413aedcc7886484adc229df002f65/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.41.0.aar/d06413aedcc7886484adc229df002f65/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-login-4.41.0.aar/171249a6b5dc6f3eab7b87d791e94c58/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-login-4.41.0.aar/171249a6b5dc6f3eab7b87d791e94c58/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-share-4.41.0.aar/fbe9e512d80fbe84b0ba4cda95ac08bf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-share-4.41.0.aar/fbe9e512d80fbe84b0ba4cda95ac08bf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/263063a2072e44374acd4b09c679c413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/263063a2072e44374acd4b09c679c413/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8284a21db9d3a2b128b2eaa01169df2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8284a21db9d3a2b128b2eaa01169df2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-places:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-places-4.41.0.aar/178d9a13c63767a6592ebde908500ac7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-places-4.41.0.aar/178d9a13c63767a6592ebde908500ac7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.41.0.aar/483e6b0e835fcfaed193af996632f862/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.41.0.aar/483e6b0e835fcfaed193af996632f862/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.41.0.aar/4fcd82dfc7d225aba5c71c85fbac923a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.41.0.aar/4fcd82dfc7d225aba5c71c85fbac923a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/60d8708ea8e76d067addbde827c1f249/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/60d8708ea8e76d067addbde827c1f249/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bf72ea8ca4396d67ab1a57c41441af7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bf72ea8ca4396d67ab1a57c41441af7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/45c83698d7ab5e6fcb99eba2b834fc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/45c83698d7ab5e6fcb99eba2b834fc12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/baaf2ee6e753ccd4208ee888ed2fb3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/baaf2ee6e753ccd4208ee888ed2fb3b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4ca2c7a8660616c2f4ee5b2195f4aa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4ca2c7a8660616c2f4ee5b2195f4aa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e7d06f566c1649459f27acf888a491a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2e7d06f566c1649459f27acf888a491a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/15a9646418c6413b319f65a50ae0c50f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/15a9646418c6413b319f65a50ae0c50f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8ee38660f93f4ecb337b4cc1fe07e9d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/8ee38660f93f4ecb337b4cc1fe07e9d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ee57096f12468f81837cc2944e702bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ee57096f12468f81837cc2944e702bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98adeee8a10febbe649d586dfa35dae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98adeee8a10febbe649d586dfa35dae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/faf8a163a3face9ad3403126f891de41/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/faf8a163a3face9ad3403126f891de41/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elifolmez/AndroidStudioProjects/Heythere/app/src/main/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-common-4.41.0.aar/ade976f74bedd20692355a6214e80c5a/AndroidManifest.xml:33:19-68
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.41.0.aar/1b3eae547f672dc6a2f72114c1944453/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.41.0] /Users/elifolmez/.gradle/caches/transforms-1/files-1.1/facebook-core-4.41.0.aar/671fa727768d78a79fe805e598683103/AndroidManifest.xml:48:25-92
