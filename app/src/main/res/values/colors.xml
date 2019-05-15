@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F23D7F</color>
+    <color name="screenBackground">#DEFF58</color>
+    <color name="button1Background">#E91E63</color>
+    <color name="button2Background">#2196F3</color>
+    <color name="button3Background">#06DD0F</color>
+    <color name="randomlayout">#D6A4E4</color>
+    <color name="random_heading_color">#59F549</color>
+</resources>

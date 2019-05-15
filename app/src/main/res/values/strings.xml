@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heythere</string>
+    <string name="facebook_app_id">384429195471002</string>
+    <string name="fb_login_protocol_scheme">fb384429195471002</string>
+    <string name="hey_there">Hey there</string>
+    <string name="random_heading">Here\'s a random number between 0 and %1d</string>
+    <string name="toast">TOAST</string>
+    <string name="count">COUNT</string>
+    <string name="random">RANDOM</string>
+    <string name="placeholder">R</string>
+</resources>
